@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bigledger.etl.samsung.empserverlistgeneration</groupId>
+  <artifactId>server-list-generation</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151016033623</lastUpdated>
+  </versioning>
+</metadata>
