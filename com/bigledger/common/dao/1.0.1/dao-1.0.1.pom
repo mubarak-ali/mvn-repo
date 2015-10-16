@@ -42,7 +42,7 @@
 					<outputDirectory>${project.basedir}/mvn-repo</outputDirectory> 	<!-- matches distribution management repository url above -->
 					<userName>mubarak-ali</userName>
 					<password>abdali00</password>
-					<merge>true</merge>
+					<!-- <merge>true</merge> -->
 					<branch>refs/heads/master</branch> 										<!-- remote branch name -->
 					<includes>
 						<include>**/*</include>
